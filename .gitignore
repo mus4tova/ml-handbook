@@ -210,3 +210,7 @@ __marimo__/
 # private keys
 git.ssh
 git.ssh.pub
+
+
+# other
+.DS_Store
